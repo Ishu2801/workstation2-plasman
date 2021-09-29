@@ -1,0 +1,11 @@
+.slideshow-container {
+  height: 600px;
+  width: 700px;
+}
+
+.App{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 50px;
+}
